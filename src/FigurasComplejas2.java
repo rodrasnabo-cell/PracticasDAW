@@ -13,6 +13,7 @@ public class FigurasComplejas2 {
 
             }
             System.out.println();
+            //hacer que imprima el numero de la linea esa cantidad de veces
 
         }
     }
